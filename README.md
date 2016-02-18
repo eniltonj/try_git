@@ -6,5 +6,6 @@
 
 
 
-[release]:https://github.com/eniltonj/try_git/releases
-[release img]:https://img.shields.io/github/tag/strongloop/express.svg
+
+[release]:https://github.com/netflix/hystrix/releases
+[release img]:https://img.shields.io/github/release/netflix/hystrix.svg
