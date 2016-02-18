@@ -7,5 +7,5 @@
 
 
 
-[release]:https://github.com/eniltonj/try_git/tag
+[release]:https://github.com/eniltonj/try_git/tags
 [release img]:https://img.shields.io/github/release/netflix/hystrix.svg
